@@ -1,0 +1,29 @@
+[
+  {
+    "nombre": "CLARK",
+    "apellido": "KENT",
+    "fechaNacimiento": "28/4/1938, 00:00:00",
+    "documento": "45",
+    "telefono": "123",
+    "miembroDesde": "31/3/2023, 11:19:52",
+    "deporte": 1
+  },
+  {
+    "nombre": "BRUCE",
+    "apellido": "WAYNE",
+    "fechaNacimiento": "2/5/1939, 00:00:00",
+    "documento": "46",
+    "telefono": "123",
+    "miembroDesde": "31/3/2023, 11:20:15",
+    "deporte": 1
+  },
+  {
+    "nombre": "",
+    "apellido": "GRILLO",
+    "fechaNacimiento": "31/12/1986, 21:00:00",
+    "documento": "47",
+    "telefono": "231",
+    "miembroDesde": "31/3/2023, 11:20:33",
+    "deporte": 3
+  }
+]
